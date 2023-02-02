@@ -1,4 +1,4 @@
-### Hi there - I'm Matthew AKA [Solitude] 👋
+### Hi there - I'm Matthew 👋
 
 - 🔭 I’m currently working on Data Structures
 - 🌱 I’m currently learning C++ and Python
