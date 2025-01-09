@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ...
 
 
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matth-lim&show_icons=true&theme=tokyonight)](https://github.com/matth-lim/github-readme-stats)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matth-lim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
