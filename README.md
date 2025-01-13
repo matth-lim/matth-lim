@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A passionate Data scientist and AI engineer</h3>
+<h3 align="center">A passionate Data Scientist and AI Engineer</h3>
 
 <br>
 <h2>👨‍💻About me</h2>
-
+With the vast amount of data that exist in the current world, I am always excited to find meaningful insights and predictions in all of these data. I thrive on translating raw data into actionable solutions by developing predictive models, optimizing algorithms or exploring the latest in machine learning research. I aim to help people to make more informed decisions by using my skills in statistics, programming and data visualization.
 
 <br>
 <h2 align="left">🛠️Languages and Tools:</h2>
@@ -11,8 +11,8 @@
 <br>
 <h2>🔗Links</h3>
 <p align="left">
-<a href="https://kaggle.com/gfdgdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gfdgdf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gdfgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gdfgd" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/matthewlim8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="matthewlim8" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Solitude_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Solitude_z" height="30" width="40" /></a>
 </p>
 <br>
 <h2>🔥Stats</h2>
@@ -24,12 +24,6 @@
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api?username=matth-lim&show_icons=true&theme=tokyonight" alt="Matthew's GitHub stats">
         </a>
-        <br>
-        <p align="center">
-          <a href="https://git.io/streak-stats">
-            <img src="https://streak-stats.demolab.com/?user=matth-lim&theme=tokyonight" alt="GitHub Streak">
-          </a>
-         </p>
       </td>
       <td style="border: none; vertical-align: middle; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matth-lim&show_icons=true&langs_count=5&theme=tokyonight" alt="Top Languages">
